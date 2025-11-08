@@ -13,11 +13,8 @@ const {
   profileImage,
   profileName,
   profileTitle,
-  email,
-  emailIconName,
   github,
   portfolioImage,
-  contactSectionButtonText,
 } = staticData.data;
 ---
 
@@ -87,9 +84,10 @@ const {
 
         <div class="flex gap-4 max-sm:flex-col max-sm:items-center">
           <Button
-            link={"mailto:" + email}
-            text={contactSectionButtonText}
-            iconName={emailIconName}
+            link="/cv.pdf"
+            text="My CV"
+            iconName="info"
+            isExternal={true}
           />
           <Button
             link={profileLink}
