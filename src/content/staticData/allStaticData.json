@@ -1,24 +1,24 @@
 {
   "profileImage": "/images/dloomzprofile.webp",
+<<<<<<< HEAD
   "profileAlt": "Photo of Fernando Aldair López Ponce (EFEELE) for the blog",
+=======
+  "profileAlt": "Photo of Dolapo OKuboyejo for the blog",
+>>>>>>> 30ad0cc3e3df4dbd66deda54814897ca351a35f6
   "profileLink": "/about-me",
   "profileTitle": "FrontEnd Developer",
   "profileName": "Fernando López",
-  "github": "https://github.com/EFEELE/Neonpink",
+  "github": "https://github.com/dloomz",
   "githubText": "Do you like this blog's design?",
   "portfolioImage": "/images/portfolio.webp",
-  "email": "hello@efeele.dev",
-  "linkedin": "https://www.linkedin.com/in/efeele/",
-  "instagram": "https://www.instagram.com/efeele.dev/",
-  "youtube": "https://www.youtube.com/@efeeledev",
+  "email": "dolapovfx@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/dolapo-okuboyejo-066b59222/",
   "alias": "EFEELE",
   "contactSectionTitle": "Ready to take your idea to the next level?",
   "contactSectionSubtitle": "Let's work together.",
   "contactSectionButtonText": "Contact Me",
   "contactSectionButtonIcon": "paperplane",
   "techsTitle": "TECHS",
-  "instagramIconName": "instagram",
-  "youtubeIconName": "youtube",
   "githubIconName": "github",
   "linkedinIconName": "linkedin",
   "emailIconName": "envelope",
@@ -30,7 +30,7 @@
     "Movies",
     "Board Games"
   ],
-  "pageTitle": "Neonpink by | Fernando Lopez | EFEELE",
+  "pageTitle": "Neonpink by | Dolapo Okuboyejo | EFEELE",
   "pageDescription": "Is a modern, minimalist template crafted for developers and digital creatives.",
   "OGImage": {
     "url": "/images/imagedefault.webp",
