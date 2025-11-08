@@ -74,6 +74,34 @@ export const languages: Record<string, Language> = {
     name: "TypeScript",
     iconName: "typescript",
   },
+  maya: {
+    name: "Maya",
+    iconName: "maya",
+  },
+  nuke: {
+    name: "Nuke",
+    iconName: "nuke",
+  },
+  karma: {
+    name: "Karma",
+    iconName: "karma",
+  },
+  houdini: {
+    name: "Houdini",
+    iconName: "houdini",
+  },
+  illustrator: {
+    name: "Illustrator",
+    iconName: "illustrator",
+  },
+  photoshop: {
+    name: "Photoshop",
+    iconName: "photoshop",
+  },
+  painter: {
+    name: "Substance Painter",
+    iconName: "painter",
+  },
   git: {
     name: "Git",
     iconName: "git",
