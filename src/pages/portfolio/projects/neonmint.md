@@ -1,43 +1,39 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
-title: 'NeonMint'
-pubDate: 2025-04-05
-description: 'NeonMint is a modern, minimalist template crafted for developers and digital creatives.'
-languages: ["astro", "tailwind", "cloudflare", "javascript","vercel"]
+title: 'Eye to Eye | 2nd Year Film'
+pubDate: 2025-11-10
+description: 'Eye to eye was my 2nd year thesis film that followed a tattered toy, missing an eye.'
+languages: ["maya", "houdini", "python"]
 image:
-  url: "/images/projects/theo-lookdev.mp4"
-  alt: "Thumbnail of Astro arches."
+  url: "/images/projects/eye-to-eye.webp"
+  alt: "Poster for Eye to Eye film."
 --- 
 
-**NeonMint** is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.
-
-Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on speed, modularity, and a component-centered architecture.
-
-## 🧩 Features
-
-- Responsive and minimalist design
-- Dark mode aesthetic with mint green accents
-- Clean and reusable UI components
-- Ideal for portfolios, dashboards or tech landing pages
-- Modern typography and clear visual hierarchy
-- Developed with **Astro**
-- Styled with **TailwindCSS**
-
-## 💡 Technologies used
-
-- Astro
-- TailwindCSS
-- HTML5
-- JavaScript
+**Eye to Eye** was my 2nd year thesis film that followed a tattered toy, missing an eye.
 
 
-## 🌐 Demo
+## My Role
 
-👉 [View live demo](https://github.com/EFEELE/NeonMint) 
+During the process of creating this film I had multiple roles, such as:
 
-## 🎯 Objective
+- Rigging 
+- Pipeline
+- Data Wrangler
+- Film Branding
 
-The purpose of NeonMint is to combine style and functionality in a clean interface that enhances content without overwhelming the user. It's an exercise in design and development focused on visual detail and user experience.
+## Rigging
 
+I had wanted to explore the role of a rigger more after choosing it as an elective during Semester A of my second year. It came with an array of challenges and I learnt a lot more about the technical side of Maya, including the node view.
 
-🚀 *Developed by EFEELE.*
+<iframe 
+  class="w-full rounded-2xl overflow-hidden aspect-video h-auto" 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/hwGyJgRo3NQ?autoplay=1&mute=1&loop=1&playlist=hwGyJgRo3NQ" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+<br>
+
+## Wip...
