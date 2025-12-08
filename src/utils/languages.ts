@@ -108,7 +108,7 @@ export const languages: Record<string, Language> = {
   },
   github: {
     name: "Github",
-    iconName: "github",
+    iconName: "github-svg",
   },
   css: {
     name: "CSS",
