@@ -106,6 +106,10 @@ export const languages: Record<string, Language> = {
     name: "Git",
     iconName: "git",
   },
+  github: {
+    name: "Github",
+    iconName: "github",
+  },
   css: {
     name: "CSS",
     iconName: "css",
