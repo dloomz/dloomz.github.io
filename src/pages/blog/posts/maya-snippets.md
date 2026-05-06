@@ -1,5 +1,5 @@
 ---
-layout: /src/layouts/MarkdownPostLayout.astro             \'
+layout: /src/layouts/MarkdownPostLayout.astro
 title: Maya Snippets - 2026 edition
 author: Dolapo Okuboyejo
 description: "A collection of maya snippets I've written."
