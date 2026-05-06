@@ -1,0 +1,33 @@
+---
+//Showreel.astro
+import Heading from "../ui/Heading.astro";
+import { Icon } from "astro-icon/components";
+---
+
+<section
+  class="scroll-m-16 px-8 max-sm:px-4 py-8"
+  id="showreel"
+  aria-label="Showreel"
+>
+  <div class="mx-auto max-w-7xl">
+    <div class="flex gap-4 items-center justify-center text-center mb-8">
+      <Icon class="text-3xl dark:text-white text-blacktext" name="rocket" />
+      <Heading text="My" textGradient="Showreel" level={2} />
+    </div>
+
+    <div
+      class="mx-auto rounded-2xl bg-linear-to-r from-pink-300 dark:from-pink-600 to-pink-50 dark:to-pink-200/5 hover:to-pink-300/30 dark:hover:to-pink-600/30 p-[.2rem] transition-all hover:shadow-[0_10px_50px_rgba(247,208,128,0.2)] dark:hover:shadow-[0_10px_50px_rgba(180,83,9,0.2)]"
+    >
+      <div class="relative w-full overflow-hidden rounded-2xl aspect-video bg-zinc-900">
+        <iframe
+          src="https://vimeo.com/1175024001?fl=ip&fe=ec"
+          class="absolute top-0 left-0 w-full h-full"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen
+          title="Showreel"
+        ></iframe>
+      </div>
+    </div>
+  </div>
+</section>

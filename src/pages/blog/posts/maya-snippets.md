@@ -1,5 +1,5 @@
 ---
-layout: /src/layouts/MarkdownPostLayout.astro
+layout: /src/layouts/MarkdownPostLayout.astro             \'
 title: Maya Snippets - 2026 edition
 author: Dolapo Okuboyejo
 description: "A collection of maya snippets I've written."
@@ -12,12 +12,12 @@ tags:
     "Maya", "Python", "Snippets"
    
   ]
-languages: ["maya", "python", ]
+languages: ["maya", "python"]
 ---
 
 I've decided to create a post that will have a collection of my snippets. This page will be updated throughout the year. I'm currently serving as Pipeline for my 3rd Year Film, so I'm finding myself writing quick tools for my team!
 
-## Maya match size tool (wip)
+## Maya Min-Y Tool
 
 A tool in maya similar to the Match size(y-min) tool in houdini. This ensures geometry will be level to the ground.
 
